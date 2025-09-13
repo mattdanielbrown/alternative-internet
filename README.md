@@ -119,7 +119,7 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 * [STEED](http://g10code.com/steed.html) is a protocol for opportunistic email encryption, featuring automatic key generation and distribution.
 * [Tox](https://tox.chat)  The goal of this project is to create a configuration free p2p skype replacement.
 * [Xeres](https://xeres.io) is a decentralized and secure application designed for communication and sharing. Use chatrooms, send private messages to friends, participate in forums, share and download files anonymously.
-
+* [Dash Chat](https://darksoil.studio/dashchat) is a secure chat app that works on regular internet like signal, and during internet shutdowns on local networks, and, can bridge between the two. It's p2p, end to end encrypted, and built with and for people who suffer from internet shutdowns around the world.
 ## Networking
 
 * [Freifunk](http://en.freifunk.net) is a non-commercial initiative for free decentralised wireless mesh networks. Technically Freifunk firmwares are based on [OpenWRT](http://www.openwrt.net) and OLSR or B.A.T.M.A.N.
